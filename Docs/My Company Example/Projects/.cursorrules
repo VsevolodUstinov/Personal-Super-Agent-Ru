@@ -156,7 +156,7 @@ python tldv_transcripts_downloader_cli.py --date 2025-06-09
 - Гибкие рабочие часы (11:00-18:00/19:00)
 
 ## 🔧 API Configuration:
-- **API Key:** `[REMOVED FOR SECURITY]`
+- **API Key:** `...`
 - **Base URL:** `https://pasta.tldv.io/v1alpha1`
 - **Pagination:** 50 встреч на страницу
 - **Total meetings:** 251 встреча
