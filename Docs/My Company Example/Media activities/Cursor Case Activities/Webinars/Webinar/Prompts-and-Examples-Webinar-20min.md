@@ -8,9 +8,10 @@
 * Пройдёт в [зуме](https://us06web.zoom.us/j/88230810760?pwd=u3NznwB4T19q5OigtrvpUaOLmhJqCW.1&jst=2)
 * Буду шарить экран ноутбука целиком
 * Убрать всё лишнее с экрана
-* Открыть отдельное окно Comet и там ссылки: Cursor.com (разлогиниться), [скрины начиная с Open Folder](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/tree/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/screenshots), [WhisprFlow](https://wisprflow.ai/), [GitHub SuperAgent](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/README.md), [EllyAnalytics.com](https://ellyanalytics.com/), [PowerBI дэшборд и отчёт](https://elly.pw/b2csubsdemo), [AGI.EllyAnalytics.com](https://agi.ellyanalytics.com/), [скриншот телеграм-канала](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/screenshots/telegram-channel-seva.png), что-то про анонс курса
+* Открыть отдельное окно Comet и там ссылки: Cursor.com (разлогиниться), [скрины начиная с Open Folder](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/tree/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/screenshots), [WhisprFlow](https://wisprflow.ai/), [GitHub SuperAgent](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/README.md), [EllyAnalytics.com](https://ellyanalytics.com/), [PowerBI дэшборд и отчёт](https://elly.pw/b2csubsdemo), [AGI.EllyAnalytics.com](https://agi.ellyanalytics.com/), [скриншот телеграм-канала](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/screenshots/telegram-channel-seva.png), что-то про анонс курса ([сайт](https://solokumi.com/course_ninjamarketing))
 * Открыть Cursor на SuperAgent Ru и скачать обновления
 * Выбрать модель Sonnet 4
+* Бекап на случай, если чат тупит - показать готовые результаты Demo 1 case ["Demo 2 case"](https://github.com/VsevolodUstinov/Personal-Super-Agent-Ru/blob/main/Docs/My%20Company%20Example/Media%20activities/Demo%20Templates/Marketing%20Assets/AI-Projects-Review-Analysis.md)
 
 ## 📋 ПЛАН ВЫСТУПЛЕНИЯ ПО БЛОКАМ
 
@@ -55,7 +56,7 @@
 
 > "Создай файл, со статусами какие проекты готовы к завершению имплементации, чтобы наш маркетинг мог собрать отзывы"
 
-### 🔥 Примеры - что можно еще для маркетинга:
+### Примеры - что можно еще для маркетинга:
 
 * вытаскивать повторяюшие клиентские вопросы из сейлз и клиентских звонков - собирать базу знаний
 * собирать позитивные моменты, что замечали клиенты на звонках об использовании Elly
@@ -103,7 +104,7 @@
 
 **Структура курса:**
 
-* **1 занятие про Cursor:** "Расширенный урок про создание агентов, мастер-класс самых популярных скриптов для маркетолога (1.5-2 часа)"
+* **1 занятие про Cursor:** "Расширенный урок про создание агентов, мастер-класс самых популярных кейсов для маркетолога (1.5-2 часа)"
 * **2 занятия про аналитику:** "Как должна выглядеть маркетинговая аналитика в современном мире?"
   * Управленческая часть (workshop с воронками)
   * Техническая часть (подводные камни и как их избежать)
